@@ -64,7 +64,7 @@ target/
 # Mac os x stuff
 .DS_Store
 
-pre-trained_language_models/
+# pre-trained_language_models/
 src/
 .idea
 */.mypy_cache
